@@ -5,7 +5,7 @@ import { Input } from './ui/input';
 import { Label } from './ui/label';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs';
 import { Eye, EyeOff, Phone, Mail } from 'lucide-react';
-import varunNetraLogo from 'figma:asset/e44aa1704c39379f905619749b1bc1e6c107d354.png';
+import varunNetraLogo from 'src:asset/logo.png';
 
 interface AuthenticationProps {
   language: string;

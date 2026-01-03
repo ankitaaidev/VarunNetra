@@ -1,4 +1,4 @@
-# 🌊 VarunNetra – Navyasetu  
+# 🌊 VarunNetra  
 ### AI-Powered Groundwater Heavy Metal Intelligence Platform
 
 **Built for Public Health • Environmental Safety • Policy Decision-Making**  

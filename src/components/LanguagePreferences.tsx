@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from './ui/button';
 import { Card } from './ui/card';
 import { Check } from 'lucide-react';
-import varunNetraLogo from 'figma:asset/e44aa1704c39379f905619749b1bc1e6c107d354.png';
+import varunNetraLogo from 'src:asset/logo.png';
 
 interface LanguagePreferencesProps {
   onLanguageSelect: (language: string) => void;

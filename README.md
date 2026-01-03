@@ -2,7 +2,7 @@
 ### AI-Powered Groundwater Heavy Metal Intelligence Platform
 
 **Built for Public Health • Environmental Safety • Policy Decision-Making**  
-**Offline-First | Geo-Spatial Mapping | AI-Driven Insights**
+**Geo-Spatial Mapping | AI-Driven Insights**
 
 ---
 
@@ -33,7 +33,6 @@ VarunNetra solves these by:
 - 🗺️ **Geo-Spatial visualization of contaminated zones**
 - 📊 **Interactive dashboards with smart filters**
 - 🤖 **AI-powered water safety & health guidance**
-- 📱 **Offline-first access**
 - 📝 **Automatic reports with policy & community insights**
 
 ---
@@ -70,13 +69,6 @@ VarunNetra solves these by:
 - Personalized guidance based on contamination levels
 - Nearby hospital and emergency info
 - Easy language outputs for wider accessibility
-
----
-
-### 📱 Offline-First Architecture
-- Local device caching
-- Sync when connected
-- Ideal for rural and low-connectivity areas
 
 ---
 

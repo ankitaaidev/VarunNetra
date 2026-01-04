@@ -86,7 +86,7 @@ VarunNetra solves these by:
 
 | Component | Technology |
 |-----------|------------|
-| Frontend | React+TypeSript |
+| Frontend | React+TypeSript,HTML,CSS |
 | Backend | Node.js |
 | Map API | Bhuvan API |
 | Chatbot & AI | Python Models & Reasoning Engines |
